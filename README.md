@@ -44,3 +44,5 @@ Now you're ready to go! The next step is easy to say, but harder to do: make an 
 
 Good luck!
 # polotravelers
+
+This is my first blog from scratch I will build with WordPress. I will try to make it as simple as possible and focus more on the design and understunding how the core of wordpress works
